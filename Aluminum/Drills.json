@@ -1,0 +1,1040 @@
+{
+    "data": [
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "3mm, Drill, HSS TiN, AL",
+            "geometry": {
+                "CSP": false,
+                "DC": 3,
+                "HAND": true,
+                "LB": 32.54,
+                "LCF": 30,
+                "NOF": 1,
+                "NT": 0,
+                "OAL": 35.08,
+                "RE": 0,
+                "SFDM": 3,
+                "SIG": 118,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 30,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "48e28880-89b3-4d97-a93e-3af7a03a9cb5",
+            "holder": {
+                "description": "Maritool CAT40-APU08 Drill Chuck",
+                "guid": "",
+                "product-id": "CAT40-APU08",
+                "segments": [
+                    {
+                        "height": 7.366,
+                        "lower-diameter": 10,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 17.5,
+                        "lower-diameter": 25,
+                        "upper-diameter": 37.9999
+                    },
+                    {
+                        "height": 19,
+                        "lower-diameter": 37.9999,
+                        "upper-diameter": 37.9999
+                    },
+                    {
+                        "height": 1,
+                        "lower-diameter": 37.9999,
+                        "upper-diameter": 35.9999
+                    },
+                    {
+                        "height": 12.5,
+                        "lower-diameter": 35.9999,
+                        "upper-diameter": 35.9999
+                    },
+                    {
+                        "height": 3.5,
+                        "lower-diameter": 29.9999,
+                        "upper-diameter": 29.9999
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 62.0268,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.683,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.9972,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.6322,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 62.0268
+                    },
+                    {
+                        "height": 3.175,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620848242,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.06428571428571428,
+                        "f_z": 0,
+                        "guid": "1ab3fa00-4960-9ab8-1b0a-4f953228b2ca",
+                        "n": 7000,
+                        "n_ramp": 0,
+                        "name": "Default Preset",
+                        "tool-coolant": "air",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 65.97344572538566,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 450,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 1000
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "generic",
+            "description": "5mm, Drill, Carbide, AL",
+            "geometry": {
+                "CSP": false,
+                "DC": 5,
+                "HAND": true,
+                "LB": 22.5,
+                "LCF": 20,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 63,
+                "RE": 0,
+                "SFDM": 5,
+                "SIG": 90,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 20,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "4e35e444-cc3d-4e1f-8c12-c48f385b93e7",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "segments": [
+                    {
+                        "height": 3.7592,
+                        "lower-diameter": 38.1,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 21.2344,
+                        "lower-diameter": 50.038,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 4.4704,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 39.878
+                    },
+                    {
+                        "height": 2.286,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 10.795,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 1.27,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 46.99
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 62.0268,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.683,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.9972,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.6322,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 62.0268
+                    },
+                    {
+                        "height": 3.175,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620866491,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.05909090909090909,
+                        "f_z": 0,
+                        "guid": "f5b51591-463b-5a11-b95c-f3a6c84ed112",
+                        "n": 11000,
+                        "n_ramp": 0,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 172.78759594743863,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 650,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 1200
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "5.5mm, Drill, HSS TiN, AL",
+            "geometry": {
+                "CSP": false,
+                "DC": 5.5,
+                "HAND": true,
+                "LB": 57.54,
+                "LCF": 55,
+                "NOF": 1,
+                "NT": 0,
+                "OAL": 60.08,
+                "RE": 0,
+                "SFDM": 5.5,
+                "SIG": 118,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 55,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "6e87802f-5c94-44c1-b349-a4165bbf8fa6",
+            "holder": {
+                "description": "Maritool CAT40-APU13 Drill Chuck",
+                "guid": "",
+                "product-id": "CAT40-APU13",
+                "segments": [
+                    {
+                        "height": 12.7,
+                        "lower-diameter": 13.462,
+                        "upper-diameter": 22.86
+                    },
+                    {
+                        "height": 20,
+                        "lower-diameter": 38.1,
+                        "upper-diameter": 49.2999
+                    },
+                    {
+                        "height": 4.96,
+                        "lower-diameter": 49.2999,
+                        "upper-diameter": 49.2999
+                    },
+                    {
+                        "height": 0.5999988,
+                        "lower-diameter": 49.2999,
+                        "upper-diameter": 50.5
+                    },
+                    {
+                        "height": 22.15,
+                        "lower-diameter": 50.5,
+                        "upper-diameter": 50.5
+                    },
+                    {
+                        "height": 1.25,
+                        "lower-diameter": 50.5,
+                        "upper-diameter": 47.9999
+                    },
+                    {
+                        "height": 16.5,
+                        "lower-diameter": 47.9999,
+                        "upper-diameter": 47.9999
+                    },
+                    {
+                        "height": 3.5,
+                        "lower-diameter": 38.1,
+                        "upper-diameter": 38.1
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 62.0268,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.683,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.9972,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.6322,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 62.0268
+                    },
+                    {
+                        "height": 3.175,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620871380,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.09230769230769231,
+                        "f_z": 0,
+                        "guid": "f61be520-4e04-1e91-8806-dcafc2259e69",
+                        "n": 6500,
+                        "n_ramp": 0,
+                        "name": "Default Preset",
+                        "tool-coolant": "disabled",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 112.3119373658351,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 600,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 1000
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "4mm, Drill, Carbide, AL",
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 16.5,
+                "LCF": 14,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 63,
+                "RE": 0,
+                "SFDM": 4,
+                "SIG": 90,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 14,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "9194ea3d-136f-403c-bee4-44d59fe5e4d4",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "segments": [
+                    {
+                        "height": 3.7592,
+                        "lower-diameter": 38.1,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 21.2344,
+                        "lower-diameter": 50.038,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 4.4704,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 39.878
+                    },
+                    {
+                        "height": 2.286,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 10.795,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 1.27,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 46.99
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 62.0268,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.683,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.9972,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.6322,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 62.0268
+                    },
+                    {
+                        "height": 3.175,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620857109,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.0625,
+                        "f_z": 0,
+                        "guid": "33ccd199-4015-66e6-859c-bba9da7ed9fb",
+                        "n": 12000,
+                        "n_ramp": 0,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 150.79644737231007,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 750,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 1200
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "3mm, Drill, Carbide, AL",
+            "geometry": {
+                "CSP": false,
+                "DC": 3,
+                "HAND": true,
+                "LB": 14.5,
+                "LCF": 12,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 63,
+                "RE": 0,
+                "SFDM": 3,
+                "SIG": 90,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 12,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "ab7dd700-6fc1-4b1d-84a6-75dc3656defb",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "segments": [
+                    {
+                        "height": 3.7592,
+                        "lower-diameter": 38.1,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 21.2344,
+                        "lower-diameter": 50.038,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 4.4704,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 39.878
+                    },
+                    {
+                        "height": 2.286,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 10.795,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 1.27,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 46.99
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 62.0268,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.683,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.9972,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.6322,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 62.0268
+                    },
+                    {
+                        "height": 3.175,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620852517,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.057692307692307696,
+                        "f_z": 0,
+                        "guid": "8b09800a-402f-6fa2-d816-90b420aea8db",
+                        "n": 13000,
+                        "n_ramp": 0,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 122.52211349000194,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 750,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 1200
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "generic",
+            "description": "6mm, Drill, Carbide, AL",
+            "geometry": {
+                "CSP": false,
+                "DC": 6,
+                "HAND": true,
+                "LB": 22.5,
+                "LCF": 20,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 63,
+                "RE": 0,
+                "SFDM": 6,
+                "SIG": 90,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 20,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "bb102b5e-e559-44e6-ac36-dbec30acee76",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "segments": [
+                    {
+                        "height": 3.7592,
+                        "lower-diameter": 38.1,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 21.2344,
+                        "lower-diameter": 50.038,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 4.4704,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 39.878
+                    },
+                    {
+                        "height": 2.286,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 10.795,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 1.27,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 46.99
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 62.0268,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.683,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.9972,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.6322,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 62.0268
+                    },
+                    {
+                        "height": 3.175,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620876635,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.06,
+                        "f_z": 0,
+                        "guid": "0707d80b-4a7d-58cc-c4db-19b7aa81ad0a",
+                        "n": 10000,
+                        "n_ramp": 0,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 188.4955592153876,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 600,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 1200
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "11/64\", Drill, HSS TiN, AL",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.17187499999999997,
+                "HAND": true,
+                "LB": 1.8187499999999999,
+                "LCF": 1.71875,
+                "NOF": 1,
+                "NT": 0,
+                "OAL": 1.91875,
+                "RE": 0,
+                "SFDM": 0.17187499999999997,
+                "SIG": 118,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 1.71875,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "d883cef5-987f-4643-945e-42b2336c1122",
+            "holder": {
+                "description": "Maritool CAT40-APU13 Drill Chuck",
+                "guid": "",
+                "product-id": "CAT40-APU13",
+                "segments": [
+                    {
+                        "height": 0.5,
+                        "lower-diameter": 0.53,
+                        "upper-diameter": 0.9
+                    },
+                    {
+                        "height": 0.7874016,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.94094
+                    },
+                    {
+                        "height": 0.1952756,
+                        "lower-diameter": 1.94094,
+                        "upper-diameter": 1.94094
+                    },
+                    {
+                        "height": 0.023622,
+                        "lower-diameter": 1.94094,
+                        "upper-diameter": 1.98819
+                    },
+                    {
+                        "height": 0.8720472,
+                        "lower-diameter": 1.98819,
+                        "upper-diameter": 1.98819
+                    },
+                    {
+                        "height": 0.0492126,
+                        "lower-diameter": 1.98819,
+                        "upper-diameter": 1.88976
+                    },
+                    {
+                        "height": 0.6496063,
+                        "lower-diameter": 1.88976,
+                        "upper-diameter": 1.88976
+                    },
+                    {
+                        "height": 0.1377953,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620861933,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.08571428571428572,
+                        "f_z": 0,
+                        "guid": "2a88c6ce-4def-3ec0-e1d6-268e4a176016",
+                        "n": 7000,
+                        "n_ramp": 0,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 314.9773884458516,
+                        "v_f": 0,
+                        "v_f_leadIn": 0,
+                        "v_f_leadOut": 0,
+                        "v_f_plunge": 600,
+                        "v_f_ramp": 0,
+                        "v_f_retract": 40
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "inches",
+            "vendor": ""
+        }
+    ],
+    "version": 1
+}

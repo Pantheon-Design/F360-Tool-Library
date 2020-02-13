@@ -1,0 +1,295 @@
+{
+    "data": [
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "1/4\", Endmill, 3 Flute, Carbide, HR A36 ST",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.24999999999999997,
+                "HAND": true,
+                "LB": 0.85,
+                "LCF": 0.7499999999999999,
+                "NOF": 3,
+                "NT": 0,
+                "OAL": 2.5,
+                "RE": 0,
+                "SFDM": 0.24999999999999997,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.7499999999999999,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.24999999999999997,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "022cae10-841b-458a-ad48-0ea84cdfebe4",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620918879,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.00043999999999999996,
+                        "f_z": 0.0004444444444444444,
+                        "guid": "4d1619f2-47db-64f1-304a-eca9be896c9d",
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 785.3981633974481,
+                        "v_f": 15.999999999999998,
+                        "v_f_leadIn": 15.999999999999998,
+                        "v_f_leadOut": 15.999999999999998,
+                        "v_f_plunge": 5.279999999999999,
+                        "v_f_ramp": 10.639999999999999,
+                        "v_f_retract": 0
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "Mill Generic",
+            "description": "3/16\", Endmill, 3 Flute, Carbide, HR A36 ST",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.18749999999999997,
+                "HAND": true,
+                "LB": 0.725,
+                "LCF": 0.625,
+                "NOF": 3,
+                "NT": 0,
+                "OAL": 1.9999999999999998,
+                "RE": 0,
+                "SFDM": 0.18749999999999997,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.625,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.18749999999999997,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "77098b3a-4677-4562-b7ff-6fc5cf10bc6d",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1581620909855,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.00032999999999999994,
+                        "f_z": 0.0003333333333333333,
+                        "guid": "ba14b564-471f-5d8c-4784-2f8f8ac55ca1",
+                        "n": 16000,
+                        "n_ramp": 16000,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 785.3981633974481,
+                        "v_f": 15.999999999999998,
+                        "v_f_leadIn": 15.999999999999998,
+                        "v_f_leadOut": 15.999999999999998,
+                        "v_f_plunge": 5.279999999999999,
+                        "v_f_ramp": 11.999999999999998,
+                        "v_f_retract": 0
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": ""
+        }
+    ],
+    "version": 1
+}
